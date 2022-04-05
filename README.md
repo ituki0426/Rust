@@ -6,6 +6,7 @@
 fn five(f:i32) -> i32{
     //returnは使わないで戻り値をあらわす
     let x:i32=f+10;
+    //この場合、xが戻り値となる
     x
 }
 fn main() {
